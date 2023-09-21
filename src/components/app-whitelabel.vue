@@ -126,8 +126,8 @@ export default {
             @click.prevent="doEnterRoom"
           >{{ $t('welcome.start') }}</a>
         </div>
-      </div><!-- comment -->
-      <!--<div class="footer links">
+      </div>
+      <div class="footer links">
         <p v-if="LICENSE">
           {{ LICENSE }}
         </p>
@@ -137,7 +137,7 @@ export default {
             COMMERCIAL LICENSE 
           </a>
         </p>
-      </div>-->
+      </div>
     </div>
   </div>
 </template>
