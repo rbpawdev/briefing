@@ -134,10 +134,10 @@ export default {
         <p v-else>
           FOR WHITELABEL USE WE ASK YOU TO PURCHASE A
           <a href="https://github.com/holtwick/briefing/#commercial-license">
-            COMMERCIAL LICENSE -->
+            COMMERCIAL LICENSE 
           </a>
         </p>
-      </div>
+      </div>-->
     </div>
   </div>
 </template>
