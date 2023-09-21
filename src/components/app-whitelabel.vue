@@ -126,7 +126,7 @@ export default {
             @click.prevent="doEnterRoom"
           >{{ $t('welcome.start') }}</a>
         </div>
-      </div>
+      </div><!-- comment -->
       <!--<div class="footer links">
         <p v-if="LICENSE">
           {{ LICENSE }}
